@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Jay.
 
-- 💬 Ask me about MLOps, internal family system (IFS), and/or calisthenics.
+- 💬 Ask me about MLOps, internal family system ([IFS](https://ifs-institute.com/)), and/or calisthenics.
+- 🧰 I'm an MLOps engineer, an IFS therapist, and a calisthenics athlete.
 - 📫 How to reach me: shilongjaycui@gmail.com
-- 🧰 I'm becoming an MLOps leader, an IFS therapist, and a calisthenics athlete.
-- 🔭 I’m currently working on my emotion classifier.
-- 🌱 I’m currently learning classical machine learning; specifically, how to select models using learning curves.
-- 👯 I’m looking to collaborate on any data science & MLOps projects related to mental health and/or physical health.
-- 🤔 I’m looking for help with identifying the right problems to solve.
+- 🔭 I’m currently working on my [emotion classifier](https://github.com/shilongjaycui/emotion-classifier).
+- 🌱 I’m currently learning how to select machine learning models using learning curves.
 - ⚡ Fun fact: I'm cooler than I thought I was. And so are you 😎
 
 <!--
