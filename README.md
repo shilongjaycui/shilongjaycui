@@ -1,11 +1,14 @@
 ### Hi there 👋, I'm Jay.
 
-- 💬 Ask me about MLOps, internal family system ([IFS](https://ifs-institute.com/)), and/or calisthenics.
-- 🧰 I'm an MLOps engineer, an IFS therapist, and a calisthenics athlete.
-- 📫 How to reach me: shilongjaycui@gmail.com
-- 🔭 I’m currently working on my [emotion classifier](https://github.com/shilongjaycui/emotion-classifier).
-- 🌱 I’m currently learning how to select machine learning models using learning curves.
-- ⚡ Fun fact: I'm cooler than I thought I was. And so are you 😎
+- 🧰 I'm an MLOps engineer.
+- I’m currently working on my [emotion classifier](https://github.com/shilongjaycui/emotion-classifier).
+    - I’m currently learning how to select machine learning models using learning curves.
+- I'm a cultural ambassador of
+  - 🧗 [bouldering](https://en.wikipedia.org/wiki/Bouldering)
+  - 🥋 [Brazilian jiu-jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)
+  - 🤸 [capoeira](https://en.wikipedia.org/wiki/Capoeira)
+  - 💃 [hip-hop dance](https://en.wikipedia.org/wiki/Hip_hop_dance)
+- How to reach me: shilongjaycui@gmail.com
 
 <!--
 **shilongjaycui/shilongjaycui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
