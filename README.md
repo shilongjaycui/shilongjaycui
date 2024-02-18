@@ -4,7 +4,6 @@
 - I’m currently working on my [emotion classifier](https://github.com/shilongjaycui/emotion-classifier).
     - I’m currently learning how to select machine learning models using learning curves.
 - I'm a cultural ambassador of
-  - 🧗 [bouldering](https://en.wikipedia.org/wiki/Bouldering)
   - 🥋 [Brazilian jiu-jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)
   - 🤸 [capoeira](https://en.wikipedia.org/wiki/Capoeira)
   - 💃 [hip-hop dance](https://en.wikipedia.org/wiki/Hip_hop_dance)
