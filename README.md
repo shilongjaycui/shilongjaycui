@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jay.
 
-- 🧰 I'm an MLOps engineer.
+- I'm an MLOps engineer.
 - I’m currently working on my [emotion classifier](https://github.com/shilongjaycui/emotion-classifier).
     - I’m currently learning how to select machine learning models using learning curves.
 - I'm a cultural ambassador of
