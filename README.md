@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Jay.
 
 - I'm an MLOps engineer.
-- I’m currently working on my [emotion classifier](https://github.com/shilongjaycui/emotion-classifier).
-    - I’m currently learning how to select machine learning models using learning curves.
+- I’m currently working on my [emotion classifier](https://github.com/shilongjaycui/emotion-classifier) (currently learning how to select machine learning models using learning curves).
 - I'm a cultural ambassador of
   - 🥋 [Brazilian jiu-jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)
   - 🤸 [capoeira](https://en.wikipedia.org/wiki/Capoeira)
