@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jay.
 
-- I'm an 💻 MLOps engineer and a 🥋 [Brazilian jiu-jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) practitioner.
-- I’m currently working on my 🛠️ [Snowflake demo app](https://github.com/shilongjaycui/snowflake-demo-app).
+- I'm an 💻 MLOps engineer, 🪗 accordionist, and 🥋 Brazilian jiu-jitsu practitioner.
+- I’m currently working on the 🛠️ [machine-learning-workflow-template](https://github.com/shilongjaycui/sklearn-infrastructure).
 - Here's how you can reach me: 📧 shilongjaycui@gmail.com
